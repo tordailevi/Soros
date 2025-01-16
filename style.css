@@ -86,7 +86,7 @@ article{
     grid-area: a;
     text-align: justify;
     padding-right: 30px;
-
+    padding-bottom: 50px;
 }
 
 h2{
@@ -103,14 +103,14 @@ h2{
 article li{
     font-size: 10px;
     list-style-type: square;
-
+    padding: 3px;
 }
 
 footer{
     color: white;
-    padding: 5px;
+    padding: 15px;
     grid-area: f;
-    background-color: gray;
+    background-color: rgb(177, 175, 175);
     text-align: center;
 }
 
